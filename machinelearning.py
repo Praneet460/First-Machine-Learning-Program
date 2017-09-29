@@ -16,10 +16,13 @@ clf = clf.fit(features, labels)
 #Make Prediction
 
 print (clf.predict([[150, 0]]))
+#Result: [1] i.e. Orange
 
 print (clf.predict([[110, 0]]))
+#Result: [0] i.e. Apple
 
 print (clf.predict([[140, 1]]))
+#Result: [0] i.e. Apple
 
 print (clf.predict([[100, 1]]))
-
+#Result: [0] i.e. Apple
