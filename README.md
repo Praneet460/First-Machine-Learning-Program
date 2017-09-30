@@ -16,3 +16,7 @@ first machine learning program to test whether a given fruit is apple or orange.
 ![img_20170930_015754](https://user-images.githubusercontent.com/23660137/31035364-498a5da6-a585-11e7-880e-e4b37503c594.jpg)
 
 
+## Worked with IRIS Data Set to predict the kind of flower 
+### Link of dataset :https://en.wikipedia.org/wiki/Iris_flower_data_set
+
+![iris](https://user-images.githubusercontent.com/23660137/31046236-01172e94-a613-11e7-9d2a-e6707a182e59.PNG)
