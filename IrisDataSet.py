@@ -50,6 +50,6 @@ print (test_target)
 
 print (clf.predict(test_data))
 
-
+#Results in : [0 1 2] i.e. Our trained classifier is working fine
 
 
