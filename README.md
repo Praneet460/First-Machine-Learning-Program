@@ -1,7 +1,7 @@
-# First-Machine-Learning-Program
-A sample Machine Learning Program to test whether a given fruit is apple or orange.
+# First-Machine-Learning-Programs
+ ## 1. A sample Machine Learning Program to test whether a given fruit is apple or orange.
 
-## How We Are Doing it?
+## How Are We Doing it?
 ## Using Supervised Machine Learning we are predicting whether the given fruit is Apple or Orange
 ## We use below mentioned training set
 ![img_20170930_015836](https://user-images.githubusercontent.com/23660137/31035225-d726d30c-a584-11e7-9122-baae7e07efe3.jpg)
@@ -18,12 +18,12 @@ A sample Machine Learning Program to test whether a given fruit is apple or oran
 ![img_20170930_015754](https://user-images.githubusercontent.com/23660137/31035364-498a5da6-a585-11e7-880e-e4b37503c594.jpg)
 
 
-## Worked with IRIS Data Set to predict the kind of flower 
+## 2. Worked with IRIS Data Set to predict the kind of flower 
 ### Link of dataset :https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 ![iris](https://user-images.githubusercontent.com/23660137/31046236-01172e94-a613-11e7-9d2a-e6707a182e59.PNG)
 
-# Predicting the better features for the classifier
+# 3. Predicting the better features for the classifier
 
 ### take the 1000 examples sets of the heights of greyhounds and labradors breed of dogs:
 
@@ -40,5 +40,7 @@ A sample Machine Learning Program to test whether a given fruit is apple or oran
 ## Conclusion : X-axis shows (heights of the dogs) and Y-axis shows (number of dogs)
 ### suppose the average height of the dog is 20 inches this shows in our histogram data that there are more chances that the dog is labrador. And if the average height of the dog is 50 inches this concludes that there is 50-50% probability that the dog could be labrodore or the greyhound. Hence this feature does not give us best result.  
 
+# 4. Training and Testing the DecisionTree Classifier with the IRIS_Dataset
+### we splitted the entire dataset in 2 equal halfs and used one half for training the classifier and used another half for testing the trained classifier. After that we check the accuracy of our classifier's prediction.
 
    
